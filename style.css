@@ -1,0 +1,34 @@
+
+button{
+    color:white;
+    background-color: rgb(74, 204, 255);
+    padding: 10px 30px;
+   border-style:groove;
+   border-color:lavender; 
+   border-width: 1px;
+   border-radius: 10px;
+}
+button:hover{
+    color:white;
+    background-color: black;
+    padding: 10px 30px;
+   border-style:groove;
+   border-color:lavender; 
+}
+iframe{
+    border-radius: 10px;
+}
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+#logoimage{
+    height:20px;
+    width:125px
+}
+nav{
+    display: flex;  
+    gap: 30px;
+}
